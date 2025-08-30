@@ -24,7 +24,11 @@ A modelagem do projeto foi iniciada com a criação de um **Diagrama de Classes 
 
 A seguir, a representação do diagrama de classes:
 
-![Diagrama de Classe do iPhone em UML](./UML/iPhone.png)
+*Diagrama de Classe do iPhone em UML - modelado em https://app.diagrams.net/*
+![](./UML/iPhone.png)
+
+*Diagrama UML - puml*
+![](UML/iphone.puml)
 
 **Análise do Diagrama:**
 * `ReprodutorMusical`, `AparelhoTelefonico` e `NavegadorInternet` são **interfaces** (indicadas pelo estereótipo `<<interface>>`). Elas definem um conjunto de métodos abstratos que devem ser implementados por qualquer classe que as utilize.
